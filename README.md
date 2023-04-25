@@ -1,6 +1,6 @@
-Here's a README.md file with cool markdown tools to help your profile stand out:
 
 # Hi there, I'm Basel! 👋
+![Basel's GitHub stats](https://github-readme-stats.vercel.app/api?username=issmail-basel&show_icons=true&theme=radical)
 
 ## 🚀 About Me
 
@@ -28,7 +28,3 @@ const skills = {
 - LinkedIn: [linkedin.com/in/basel-issmail](https://www.linkedin.com/in/basel-issmail/)
 - Stack Overflow: [stackoverflow.com/u/8396204](https://stackoverflow.com/users/8396204/)
 - Email: [basel.issmail@gmail.com](mailto:basel.issmail@gmail.com)
-
-![Basel's GitHub stats](https://github-readme-stats.vercel.app/api?username=issmail-basel&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issmail-basel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
