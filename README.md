@@ -1,9 +1,6 @@
 Here's a README.md file with cool markdown tools to help your profile stand out:
 
-```markdown
 # Hi there, I'm Basel! 👋
-
-![header](https://raw.githubusercontent.com/issmail-basel/issmail-basel/master/assets/header.png)
 
 ## 🚀 About Me
 
@@ -35,6 +32,3 @@ const skills = {
 ![Basel's GitHub stats](https://github-readme-stats.vercel.app/api?username=issmail-basel&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=issmail-basel&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-```
-Copy and paste the content above into your README.md file. The content includes a header image, an about me section, skills formatted as code, learning goals, contact information, and GitHub statistics. The theme "radical" is used for the statistics cards, but you can change it to another available theme according to your preference.
