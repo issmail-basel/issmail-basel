@@ -1,6 +1,6 @@
 
 # Hi there, I'm Basel! 👋
-![Basel's GitHub stats](https://github-readme-stats.vercel.app/api?username=issmail-basel&show_icons=true&theme=radical)
+![Basel's GitHub stats](https://github-readme-stats.vercel.app/api?username=issmail-basel&show_icons=true&theme=apprentice)
 
 ## 🚀 About Me
 
