@@ -10,8 +10,8 @@ I'm a **Front-end Engineer** with expertise in _React, Angular_, and _TypeScript
 
 ```javascript
 const skills = {
-  languages: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  frameworks: ["React", "Angular", "Node.js", "Express"],
+  languages: ["JavaScript", "TypeScript", "HTML", "CSS", "PHP"],
+  frameworks: ["React", "Angular", "Node.js", "Express", "Laravel", "Symfony"],
   databases: ["MySQL", "MongoDB"],
   tools: ["Webpack", "Vite", "Git", "JIRA", "AWS"],
 };
@@ -20,7 +20,6 @@ const skills = {
 ## 🌱 What I'm Learning
 
 - Golang
-- Flutter
 - Advanced AWS concepts
 
 ## 📬 Get in Touch
